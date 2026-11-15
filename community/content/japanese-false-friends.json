@@ -406,5 +406,11 @@
   "termB": "anime (English usage)",
   "explanation": "In Japanese it can refer to animation in general. (Set 2)",
   "example": "子どものころからアニメが好きだ。"
+},
+  {
+  "termA": "イメージ (imeeji)",
+  "termB": "image",
+  "explanation": "Often means impression/public image. (Set 4)",
+  "example": "会社のイメージが良くなった。"
 }
 ]
